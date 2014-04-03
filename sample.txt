@@ -1,0 +1,2 @@
+Hello, Vim!
+This is my sample text for exercise 15 of Learn Python the Hard Way.
